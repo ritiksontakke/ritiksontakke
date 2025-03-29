@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I love debugging test scripts!**
 
 ## 🌐 Connect with me :
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ritiksontakke.github.io/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritiksontakke1008@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritiksontakke/)
+[![Portfolio]
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
